@@ -1,4 +1,4 @@
-### NAME: S.Deepak
+### NAME: DEEPAK S
 ### REG.NO :212224230053
 
 #  Mean and variance of a discrete  distribution
@@ -77,7 +77,7 @@ print("The Standard deviation of arrival from feeder is %.3F "%SD)
 ```
 
 # Output : 
-![Screenshot 2025-04-29 135106](https://github.com/user-attachments/assets/39b80112-7775-4368-9334-c2db5af8fa9c)
+![image](https://github.com/user-attachments/assets/1025a709-18c5-4160-83a2-57750ded330c)
 
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
