@@ -1,9 +1,8 @@
+### NAME: S.Deepak
+### REG.NO :212224230053
+
 #  Mean and variance of a discrete  distribution
 
-### NAME: S.Deepak
-### REG.NO.:212224230053
-### DATE:29/04/2025
-##
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
